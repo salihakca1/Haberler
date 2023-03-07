@@ -1,8 +1,28 @@
 # Haberler
 Merhaba, uygulamanın amacı haberleri kullanıcıya farklı kategorilerde sunmaktır. Haber kaynağı olarak News Api kulandım.
 
-
+Uygulamayı yapmak için kullandığım yapılar; Jetpack Compose, Clean Architecture MVVM, Navigation, Retrofit, Coroutines, Dagger- Hilt, LiveData, Splash Screen, Bottom Navigation, Navigation Drawer, TopAppBar.
 https://youtube.com/shorts/YBYclItrBPY?feature=share
+
+Libraries And Tools
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jetpack Compose
+Retrofit
+Dagger- Hilt
+Navigation
+Clean Architecture
+Coroutines
+LiveData
+ViewModel
+Glide
+Splash Screen
+Bottom Navigation
+Navigation Drawer
+TopAppBar
+
+Architecture
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MVVM
 
 
 ![Screenshot_20230305_175337](https://user-images.githubusercontent.com/112124373/222973706-893ed7d7-6aaa-4632-8297-c64a1f3b6319.png)
