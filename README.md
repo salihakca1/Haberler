@@ -6,17 +6,16 @@ https://youtube.com/shorts/YBYclItrBPY?feature=share
 Libraries And Tools
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •Retrofit                                                                                                                                                                 
-•Dagger- Hilt
-•Navigation
-•Clean Architecture
-•Coroutines
+•Dagger- Hilt                                                                                                                                                             
+•Navigation                                                                                                                                                               
+•Coroutines                                                                                                                                                               
 •LiveData
-•ViewModel
-•Glide
-•Splash Screen
-•Bottom Navigation
-•Navigation Drawer
-•TopAppBar
+•ViewModel                                                                                                                                                               
+•Glide                                                                                                                                                                   
+•Splash Screen                                                                                                                                                           
+•Bottom Navigation                                                                                                                                                       
+•Navigation Drawer                                                                                                                                                       
+•TopAppBar                                                                                                                                                               
 
 Architecture
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
