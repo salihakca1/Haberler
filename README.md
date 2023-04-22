@@ -22,3 +22,4 @@ Architecture
 •MVVM
 
 ![Screenshot_20230305_175337](https://user-images.githubusercontent.com/112124373/233770481-ab640ab1-db9e-49c1-a87a-29ddab542efb.png)
+https://www.hizliresim.com/2a3eluq
