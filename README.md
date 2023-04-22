@@ -21,4 +21,4 @@ Architecture
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •MVVM
 
-![avesto](https://user-images.githubusercontent.com/112124373/233770421-8ce333a4-4fea-4c32-b7b6-fb9988b7f9c8.png)
+![Screenshot_20230305_175337](https://user-images.githubusercontent.com/112124373/233770481-ab640ab1-db9e-49c1-a87a-29ddab542efb.png)
