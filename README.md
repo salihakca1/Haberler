@@ -9,7 +9,7 @@ Libraries And Tools
 •Dagger- Hilt                                                                                                                                                             
 •Navigation                                                                                                                                                               
 •Coroutines                                                                                                                                                               
-•LiveData
+•LiveData                                                                                                                                                                 
 •ViewModel                                                                                                                                                               
 •Glide                                                                                                                                                                   
 •Splash Screen                                                                                                                                                           
