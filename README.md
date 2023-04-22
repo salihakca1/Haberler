@@ -20,6 +20,5 @@ Libraries And Tools
 Architecture
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •MVVM
-![Screenshot_20230305_175337](https://user-images.githubusercontent.com/112124373/233770894-51c37989-b799-4f7c-9235-ae9954faaba0.png)
 
-![Screenshot_20230305_175337](https://user-images.githubusercontent.com/112124373/233770860-8ebfe867-100e-42e5-9fa1-f7c3a6639a68.png)
+
