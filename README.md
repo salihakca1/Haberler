@@ -5,7 +5,7 @@ https://youtube.com/shorts/YBYclItrBPY?feature=share
 
 Libraries And Tools
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-•Jetpack Compose
+•Jetpack Compose<br/>
 •Retrofit                                                                                                                                                                 
 •Dagger- Hilt                                                                                                                                                             
 •Navigation                                                                                                                                                               
